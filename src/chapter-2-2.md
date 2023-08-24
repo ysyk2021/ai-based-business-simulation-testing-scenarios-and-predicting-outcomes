@@ -1,5 +1,3 @@
-Traditional Approaches to Business Simulation
-================================================================================
 
 Before the advent of artificial intelligence (AI) and advanced computing technologies, traditional approaches to business simulation relied on manual processes and simple models. In this chapter, we will explore the different traditional approaches to business simulation and their limitations.
 

@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Business Simulation
-======================================================================================================================
 
 In this chapter, we will provide an overview of the data collection and analysis process for AI-based business simulation. We will discuss the importance of data collection and analysis in informing and improving business simulations, and outline the key steps involved in the process.
 

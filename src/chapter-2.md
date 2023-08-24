@@ -1,5 +1,3 @@
-Understanding Business Simulation
-=================================
 
 Business simulation is a process of creating models that simulate real-world business scenarios. These simulations can aid organizations in testing different strategies and predicting outcomes before implementing them in the real world. In this chapter, we will cover an overview of business simulation, traditional approaches to business simulation, and the limitations and challenges of using these approaches.
 

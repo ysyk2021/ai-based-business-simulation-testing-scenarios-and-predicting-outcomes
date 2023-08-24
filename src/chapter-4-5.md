@@ -1,5 +1,3 @@
-Resource and Capacity Data
-================================================================================
 
 In this chapter, we will explore the importance of data collection and analysis for business simulation, specifically for resource and capacity data. Resource and capacity data are critical inputs for AI-based business simulations as they form the basis for predicting outcomes and identifying opportunities for optimization.
 

@@ -1,5 +1,3 @@
-Agent-Based Modeling and Network Analysis
-=================================================================================================
 
 Agent-based modeling and network analysis are two key techniques used in AI-based business simulations. In this chapter, we will provide an overview of these techniques and explore how they can be used to optimize business operations.
 

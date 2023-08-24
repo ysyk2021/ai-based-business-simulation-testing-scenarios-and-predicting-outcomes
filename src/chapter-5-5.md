@@ -1,5 +1,3 @@
-Decision Trees and Scenario Planning
-============================================================================================
 
 In this chapter, we will focus on two key AI-based business simulation techniques and strategies: decision trees and scenario planning. These techniques are critical to testing scenarios and predicting outcomes for various business processes and decision-making scenarios.
 

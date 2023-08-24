@@ -1,5 +1,3 @@
-Historical Financial Data
-===============================================================================
 
 In this chapter, we will explore the importance of historical financial data in AI-based business simulation. We will discuss the process of collecting and analyzing historical financial data to inform and improve business simulations.
 

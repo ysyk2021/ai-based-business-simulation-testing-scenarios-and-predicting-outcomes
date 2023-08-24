@@ -1,5 +1,3 @@
-Data Collection and Analysis for Business Simulation
-====================================================
 
 In this chapter, we will provide an overview of data collection and analysis for AI-based business simulation. We will discuss the importance of historical financial, market and economic, customer and supplier, as well as resource and capacity data in developing effective simulations.
 

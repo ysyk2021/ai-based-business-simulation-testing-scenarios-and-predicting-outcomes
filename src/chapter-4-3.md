@@ -1,5 +1,3 @@
-Market and Economic Data
-==============================================================================
 
 In this chapter, we will discuss the importance of market and economic data in AI-based business simulation and explore key considerations for its collection and analysis.
 

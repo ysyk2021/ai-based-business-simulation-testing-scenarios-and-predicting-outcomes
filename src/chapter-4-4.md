@@ -1,5 +1,3 @@
-Customer and Supplier Data
-================================================================================
 
 In this chapter, we will explore the importance of customer and supplier data collection and analysis in AI-based business simulation. We will discuss how this data can inform simulations and outline key considerations for effective collection and analysis.
 

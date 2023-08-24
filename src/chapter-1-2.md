@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Business
-==================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to transform a wide range of industries, including business. In this chapter, we will provide an overview of AI and its applications in business.
 

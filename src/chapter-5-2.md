@@ -1,5 +1,3 @@
-Monte Carlo Simulation and Sensitivity Analysis
-=======================================================================================================
 
 Monte Carlo simulation and sensitivity analysis are two important techniques used in AI-based business simulations. In this chapter, we will provide an overview of these techniques and explore how they can be used to optimize business operations.
 

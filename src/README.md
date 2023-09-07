@@ -8,3 +8,7 @@ Through real-world examples and practical advice, this book offers insights into
 In the following chapters, we'll dive deeper into specific applications of AI-based business simulation, including risk management, financial forecasting, supply chain management, and marketing strategy. By the end of this book, you'll have a solid understanding of how AI-based business simulation can be implemented to optimize your small business operations and achieve greater success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

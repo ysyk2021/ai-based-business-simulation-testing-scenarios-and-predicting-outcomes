@@ -1,5 +1,4 @@
-Chapter: Overview of Data Collection and Analysis for Business Simulation
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of data collection and analysis for AI-based business simulation testing scenarios and predicting outcomes. We explore the process of gathering relevant data, preparing it for analysis, and utilizing AI techniques to generate meaningful insights.
 

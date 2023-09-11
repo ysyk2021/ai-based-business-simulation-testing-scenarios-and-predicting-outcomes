@@ -1,5 +1,4 @@
-Chapter: Reinforcement Learning and Optimization
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the application of reinforcement learning and optimization techniques in AI-based business simulation for testing scenarios and predicting outcomes. We dive into the concepts, methodologies, benefits, and challenges of using these approaches to enhance decision-making and drive optimal business strategies.
 

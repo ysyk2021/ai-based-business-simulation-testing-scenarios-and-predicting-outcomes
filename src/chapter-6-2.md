@@ -1,5 +1,4 @@
-Chapter: Regulatory and Ethical Considerations
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the regulatory and ethical considerations surrounding AI-based business simulation testing scenarios and predicting outcomes. While these technologies offer valuable insights and predictive capabilities, it is essential to address potential risks, maintain ethical standards, and comply with relevant regulations.
 

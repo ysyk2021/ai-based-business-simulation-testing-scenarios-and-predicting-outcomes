@@ -1,5 +1,4 @@
-Chapter: Overview of Business Simulation
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of business simulation and its role in AI-based testing scenarios and predicting outcomes. We discuss the concept, benefits, key components, and implementation considerations of business simulations.
 

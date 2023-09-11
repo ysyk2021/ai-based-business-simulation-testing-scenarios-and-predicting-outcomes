@@ -1,5 +1,4 @@
-Chapter: Opportunities and Challenges in Scaling Up AI-Based Business Simulation
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

@@ -1,5 +1,4 @@
-Chapter: Integration with Enterprise Resource Planning (ERP) Systems and Business Analytics
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the integration of AI-based business simulation testing scenarios and predicting outcomes with Enterprise Resource Planning (ERP) systems and Business Analytics. We discuss how these integrations can enhance decision-making processes, optimize resource allocation, and improve overall business performance.
 

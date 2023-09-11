@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Business Simulation
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the traditional approaches to business simulation and their role in testing scenarios and predicting outcomes. We discuss the characteristics, methodologies, benefits, and limitations of these conventional techniques.
 

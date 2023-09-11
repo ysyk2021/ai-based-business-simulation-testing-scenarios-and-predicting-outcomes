@@ -1,5 +1,4 @@
-Chapter: Resource and Capacity Data
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of resource and capacity data in AI-based business simulation testing scenarios and predicting outcomes. We delve into the significance of understanding and effectively managing resources and capacities, sources of data, analysis techniques, and considerations for integrating these factors into simulations.
 

@@ -1,5 +1,4 @@
-Chapter: Customer and Supplier Data
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of customer and supplier data in AI-based business simulation testing scenarios and predicting outcomes. We delve into the role of data related to customers and suppliers, sources of data, analysis techniques, and considerations for leveraging this information in simulations.
 

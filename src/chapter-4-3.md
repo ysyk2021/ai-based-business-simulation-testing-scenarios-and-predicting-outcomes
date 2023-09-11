@@ -1,5 +1,4 @@
-Chapter: Market and Economic Data
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of market and economic data in AI-based business simulation testing scenarios and predicting outcomes. We discuss the sources, collection methods, and analysis techniques for leveraging market and economic data to enhance the accuracy and reliability of simulations.
 
